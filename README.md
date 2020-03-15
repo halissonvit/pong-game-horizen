@@ -57,3 +57,7 @@ Your app will be running on http://localhost:8000
 ## How to use the Game
 
 [Check this quick guide](https://github.com/MLH/pong-game-horizen/blob/master/TUTORIAL.md)
+
+## Deploy on Repl
+
+[![Run on Repl.it](https://repl.it/badge/github/halissonvit/pong-game-horizen)](https://repl.it/github/halissonvit/pong-game-horizen)
